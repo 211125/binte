@@ -1,6 +1,9 @@
-# binte
+# Binte
 
-![Logo del proyecto](./flutter.mp4)
+<video width="600" controls>
+  <source src="./video.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de videos.
+</video>
 
 A new Flutter project.
 
