@@ -1,22 +1,47 @@
 # Binte
-[Mira el video del proyecto](./video.mp4)
 
-<video width="600" controls>
-  <source src="./video.mp4" type="video/mp4">
-  Tu navegador no soporta la reproducción de videos.
-</video>
+## Instrucciones para la Compilación y Ejecución
 
-A new Flutter project.
+### Requisitos Previos
 
-## Getting Started
+Antes de comenzar, asegúrate de tener instalado lo siguiente en tu máquina:
 
-This project is a starting point for a Flutter application.
+- **Flutter SDK**: Puedes descargarlo desde [flutter.dev](https://flutter.dev/docs/get-started/install).
+- **Android Studio** (opcional): Para emular dispositivos Android o usar herramientas avanzadas de desarrollo.
+- **Xcode** (para desarrollo en iOS): Necesario si deseas desarrollar para iOS.
+- **Dispositivo físico o emulador**: Para probar la aplicación.
 
-A few resources to get you started if this is your first Flutter project:
+### Configuración del Entorno
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Clonar el repositorio:**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   Clona este repositorio en tu máquina local utilizando Git:
+
+   ```bash
+   git clone https://github.com/tu_usuario/binte.git
+   cd binte
+## Instalar dependencias:
+
+2. **Ejecuta el siguiente comando para instalar todas las dependencias necesarias:**
+
+   ```bash
+   flutter pub get
+
+3. **Conectar un dispositivo o iniciar un emulador:**
+
+   Asegúrate de tener un dispositivo físico conectado o un emulador en funcionamiento.
+
+## Verificar la configuración:
+
+4. **Para verificar que todo esté configurado correctamente, ejecuta:**
+
+   ```bash
+   flutter doctor
+## Compilación y Ejecución
+
+### Compilar y ejecutar la aplicación:
+
+5. **Para compilar y ejecutar la aplicación en modo debug, utiliza el siguiente comando:**
+
+   ```bash
+   flutter run
