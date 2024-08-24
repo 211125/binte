@@ -1,5 +1,7 @@
 # Binte
-
+**Video de la aplicación**  
+!Watch the video
+[![Watch the video](flutter.png)](https://drive.google.com/file/d/1m_JnmJM1KK6CWy_nNvVv0Sos1Yf3Uzch/view?usp=sharing)
 ## Instrucciones para la Compilación y Ejecución
 
 ### Requisitos Previos
