@@ -1,6 +1,6 @@
 # binte
 
-![Logo del proyecto](https://scontent.ftgz3-1.fna.fbcdn.net/v/t39.30808-6/291920933_448312317299864_478202528859404822_n.png?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=uOHR96O2xy4Q7kNvgHxkFQg&_nc_pt=1&_nc_ht=scontent.ftgz3-1.fna&oh=00_AYAUqtjtE9Mr7uoVCz97yJmcLxlEQ7I9y92Lf2BxemXNww&oe=66CF27B3)
+![Logo del proyecto](./flutter.mp4)
 
 A new Flutter project.
 
